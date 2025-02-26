@@ -18,4 +18,4 @@ Submission Details:
   - The Microsoft Word file contains screenshots of the code running and working
     along with paragraphs explaining the concepts for each task
 - Source Code:
-  All files from the INET3101-dynamic-memory will be uploaded. The mallocofstructs.c and 3-dynamically-allocating.c will be uploaded by itself.
+  Everything that needed modifying was uploaded.
