@@ -1,2 +1,6 @@
-# inet3101-lab1.5
-Code for the INET 3101 Lab 1.5
+# INET3101-Lab1.5
+Assignment Overiew
+- Look at eacah numbered file in the INET-3101-dynamic-memory repository. Each file has instructions at the end which include:
+- Explaining concepts briefly
+- Fixing the code
+- Modifying the code as specified
