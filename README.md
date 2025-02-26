@@ -11,7 +11,9 @@ Header Examples:
 
 Submission Details:
 - Header Example Task:
-  - The header examples are located the Header folder. To run the program
+  - The header examples are located the Header folder. To run the program for Mac you need to do
+    gcc mathProgram.c mathHeader.c -o mathProgram
+    
 - Documentation:
   - The Microsoft Word file contains screenshots of the code running and working
     along with paragraphs explaining the concepts for each task
