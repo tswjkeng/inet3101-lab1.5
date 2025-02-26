@@ -1,5 +1,5 @@
 # INET3101-Lab1.5
-Assignment Overiew
+Overiew
 Dynamic Memory Examples: 
 - Look at each numbered file in the INET-3101-dynamic-memory repository. Each file has instructions at the end which include:
   - Explaining concepts briefly
@@ -11,5 +11,9 @@ Header Examples:
 
 Submission Details:
 - Header Example Task:
+  - The header examples are located the Header folder. To run the program
 - Documentation:
+  - The Microsoft Word file contains screenshots of the code running and working
+    along with paragraphs explaining the concepts for each task
 - Source Code:
+  All files from the INET3101-dynamic-memory will be uploaded. The mallocofstructs.c and 3-dynamically-allocating.c will be uploaded by itself.
